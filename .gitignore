@@ -1,0 +1,8 @@
+# Hassas Bilgiler ve Şifreler
+.env
+
+# Python Önbellek Klasörleri
+__pycache__/
+
+# Lokal CSV Yedekleri
+*.csv
